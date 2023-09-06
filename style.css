@@ -1,0 +1,26 @@
+*{
+    font-family:sans-serif ;
+}
+
+h1 { 
+    color: cyan;
+    background-color: black;
+    font-weight: bold;
+    
+}
+span {
+    
+    color: white;
+}
+
+h2{
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    color: black;
+    background-color: #9FC5F8;
+    text-align: right;
+}
